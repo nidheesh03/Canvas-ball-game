@@ -1,0 +1,30 @@
+.content {
+    text-align: center;
+}
+
+#game-canvas {
+    background-color: green;
+}
+.button-div{
+    text-align: center;
+}
+.circle-button{
+    background-color: yellow;
+    border-radius: 40%;
+}
+.circle-button h1{
+    font-size:20px;
+    font-weight: 1000;
+    font-family: 'Rowdies', cursive;
+    color:black;
+}
+.stop-button{
+    background-color:red;
+}
+.stop-button h1{
+    font-family: 'Rowdies', cursive;
+    color:yellow;
+}
+.main-heading{
+    color:orange;
+}
